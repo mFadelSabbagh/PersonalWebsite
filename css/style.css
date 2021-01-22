@@ -400,7 +400,6 @@ li.contact:hover::before {
 #portfolio .item {
   display: none;
   opacity: 0;
-  padding: 0px 10px;
   width: 100%;
   vertical-align: top;
   margin-bottom: 12px;
@@ -1029,8 +1028,6 @@ footer p {
 }
 
 .comment-avatar {
-  width: 80px;
-  height: 80px;
   float: left;
   padding: 8px;
 }
@@ -1049,7 +1046,7 @@ footer p {
 }
 
 .comment-info {
-  margin-left: 97px;
+  margin-left: 5px;
 }
 
 .comment-info h6 {
