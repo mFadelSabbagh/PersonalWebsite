@@ -1030,6 +1030,7 @@ footer p {
 .comment-avatar {
   float: left;
   padding: 8px;
+  padding-top: 0;
 }
 
 .comments-wrap ul {
@@ -1154,7 +1155,7 @@ footer p {
   }
 
   .l-content {
-    background: #000;
+    background: #2a373b;
     height: auto;
     width: 100%;
     padding: 0px;
