@@ -401,12 +401,12 @@ li.contact:hover::before {
   display: none;
   opacity: 0;
   padding: 0px 10px;
-  width: 33.3333%;
+  width: 100%;
   vertical-align: top;
   margin-bottom: 12px;
   color: #fff;
   font-size: 30px;
-  text-align: center;
+  text-align: left;
   -moz-box-sizing: border-box;
 }
 
