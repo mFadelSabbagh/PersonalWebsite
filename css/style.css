@@ -1032,9 +1032,7 @@ footer p {
   width: 80px;
   height: 80px;
   float: left;
-  border: 1px solid #dcdcdc;
   padding: 8px;
-  border-radius: 6px;
 }
 
 .comments-wrap ul {
