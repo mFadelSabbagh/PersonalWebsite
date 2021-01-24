@@ -85,13 +85,13 @@ a:hover {
 }
 
 .profile-pic {
-  background: url(../images/profile-bg.jpg) no-repeat;
+  /* background: url(../images/profile-bg.jpg) no-repeat; */
   height: 266px;
   position: relative;
 }
 
 .pic-bg {
-  background: url(../images/pic-bg.png) no-repeat;
+  /* background: url(../images/pic-bg.png) no-repeat; */
   width: 200px;
   height: 200px;
   position: absolute;
